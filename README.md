@@ -5,9 +5,11 @@ Ce projet utilise la science des données pour optimiser le recrutement d'un pos
 
 Algorithme de Scoring : Pour évaluer le bassin de 184 candidats, un algorithme de scoring sur 100 points a été développé selon les poids suivants :
 
-1. Membre OIQ (40 pts) : Conformité légale indispensable pour la signature de plans.
+1. Membre OIQ* (40 pts) : Conformité légale indispensable pour la signature de plans (validé sur le bottin en ligne de l'OIQ)
 2. Expérience de Gestion (30 pts) : Capacité à diriger l'équipe actuelle.
-3. Localisation (30 pts) : Proximité (< 30 min) des bureaux de Shawinigan.
+3. Localisation (30 pts) : Proximité (< 30 min de voiture, validé manuellement) des bureaux de Shawinigan.
+
+*Note : cela va sans dire que le bassin a été bâti par un chasseur de tête professionnel. il existe plusieurs branches de l'ingénierie, on peut prendre pour acquis que la branche est pertinente au poste recherché.
 
 Segmentation des Profils
 
